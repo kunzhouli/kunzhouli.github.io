@@ -1,2 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kaiden_Li的博客</title><link>https://kunzhouli.github.io</link><description>HELLO WORLD</description><copyright>Kaiden_Li的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://kunzhouli.github.io</link></image><lastBuildDate>Tue, 01 Oct 2024 14:49:41 +0000</lastBuildDate><managingEditor>Kaiden_Li的博客</managingEditor><ttl>60</ttl><webMaster>Kaiden_Li的博客</webMaster><item><title>TEST</title><link>https://kunzhouli.github.io/post/TEST.html</link><description>Today,this blog start.HELLO WORLD。</description><guid isPermaLink="true">https://kunzhouli.github.io/post/TEST.html</guid><pubDate>Tue, 01 Oct 2024 14:41:36 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kaiden_Li的博客</title><link>https://kunzhouli.github.io</link><description>HELLO WORLD</description><copyright>Kaiden_Li的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://kunzhouli.github.io</link></image><lastBuildDate>Tue, 01 Oct 2024 15:06:07 +0000</lastBuildDate><managingEditor>Kaiden_Li的博客</managingEditor><ttl>60</ttl><webMaster>Kaiden_Li的博客</webMaster><item><title>日影观测试验记录报告</title><link>https://kunzhouli.github.io/post/ri-ying-guan-ce-shi-yan-ji-lu-bao-gao.html</link><description># 日影观测试验记录报告&#13;
+&#13;
+## 实验器材&#13;
+- 指南针&#13;
+- 木板（30cm*30cm）&#13;
+- 一次性筷子 (h=11cm)&#13;
+&#13;
+## 实验地点&#13;
+陕西省图书馆思想者雕塑正后方台面上（34°13′57″N，108°56′30″E）&#13;
+&#13;
+## 试验方案&#13;
+1. 将筷子固定在木板正中央，一次性筷子处为原点，构建平面直角坐标系&#13;
+2. 每天在12:10在上述地点持续观测一周（8.1-8.7）&#13;
+3. 记录下每一天影子顶端的坐标&#13;
+4. 总结结论&#13;
+&#13;
+## 实验结果&#13;
+| DATE | 影长/cm | 太阳方位角/° | 太阳高度角/° | 坐标 |&#13;
+|------|---------|--------------|--------------|------|&#13;
+| 8.1  | 3.71    | 148.45       | 71.33        | (-1.94, 3.17) |&#13;
+| 8.2  | 3.76    | 148.85       | 71.11        | (-1.95, 3.21) |&#13;
+| 8.3  | 3.81    | 149.26       | 70.88        | (-1.95, 3.377593944000977) |&#13;
+| 8.4  | 3.86    | 149.67       | 70.65        | (-1.9506984525938267, 3.334211373980139) |&#13;
+| 8.5  | 3.91    | 150.09       | 70.43        | (-1.9498956021068286, 3.3896032415643917) |&#13;
+| 8.6  | 3.96    | 150.51       | 70.18        | (-1.951651134714408, 3.450936895174293) |&#13;
+| 8.7  | 4.01    | 150.93       | 69.94        | (-1.9516364311116021, 3.51072309912247) |&#13;
+&#13;
+## 实验结论&#13;
+在8.1-8.7内，影长逐渐变长，影子的端点逐渐向西北移动。</description><guid isPermaLink="true">https://kunzhouli.github.io/post/ri-ying-guan-ce-shi-yan-ji-lu-bao-gao.html</guid><pubDate>Tue, 01 Oct 2024 15:05:41 +0000</pubDate></item><item><title>TEST</title><link>https://kunzhouli.github.io/post/TEST.html</link><description>Today,this blog start.HELLO WORLD。</description><guid isPermaLink="true">https://kunzhouli.github.io/post/TEST.html</guid><pubDate>Tue, 01 Oct 2024 14:41:36 +0000</pubDate></item></channel></rss>
